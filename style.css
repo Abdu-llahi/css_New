@@ -8,10 +8,10 @@
 }
 
 
-/* div::before {
+div::before {
     content: " Frontend Simplified";
-} */
-/* 
+}
+
 div {
     transition: background-color 300ms;
 }
@@ -36,4 +36,4 @@ button:hover {
     100% {
         transform: translateY(10px);
     }
-} */
+}
